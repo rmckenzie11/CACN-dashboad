@@ -1,0 +1,12 @@
+name: CACN_dash
+title: CACN_dash
+username:
+account: robert-mckenzie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1980023
+bundleId: 3384452
+url: https://robert-mckenzie.shinyapps.io/CACN_dash/
+when: 1594612529.56916
+asMultiple: FALSE
+asStatic: FALSE
